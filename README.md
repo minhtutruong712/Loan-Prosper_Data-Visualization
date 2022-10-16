@@ -20,15 +20,13 @@ The main features of interest in the dataset is to find out what variables highl
 The features will help support support my investigation is Prosper Loan Amount and the Prosper Loss Net, which are also the feature of interest. In order to make an investigation, the both could be explained by the other variables.
 
 And the key findings are 
-- Three variables Term, Prosper Rating, Borrower Rate that positive correlate with the Loan Prosper Principal Outstanding. 
-
-- The Net Loss on Prosper has mean = 0, the recoveries could set off the charged off loans which are loss (positive Net Loss on Prosper Loan).
-
-- Out of the listing category, the listing category = 1 (1 - Debt Consolidation) is the category that observes the most loan amount in the range 0-10000, and the lost on prosper loan appear the most in listing category = 1 (1 - Debt Consolidation) as well.
+- The Loan Prosper Principal Outstanding will be best explained by variables: Term, Prosper Rating, Borrower Rate. These 3 variables have a positive relationship with the Loan Prosper Principal Outstanding as these three are higher in value, the Principal Outstanding will be higher. 
+- The Net Loss on Prosper Loan has its mean = 0 then the recoveries (negative Net Loss on Prosper Loan) could set off the charged off loans which are loss (positive Net Loss on Prosper Loan).
+- Out of the listing category, the listing category = 20 (1 - Wedding Loans) is the category that observes the most loan amount in the range 0-10000.
 
 ## Key Insights for Presentation
 
 Summary for key findings:
 - The Loan Prosper Principal Outstanding will be best explained by variables: Term, Prosper Rating, Borrower Rate. These 3 variables have a positive relationship with the Loan Prosper Principal Outstanding as these three are higher in value, the Principal Outstanding will be higher. 
 - The Net Loss on Prosper Loan has its mean = 0 then the recoveries (negative Net Loss on Prosper Loan) could set off the charged off loans which are loss (positive Net Loss on Prosper Loan).
-- Out of the listing category, the listing category = 1 (1 - Debt Consolidation) is the category that observes the most loan amount in the range 0-10000, and the lost on prosper loan appear the most in listing category = 1 (1 - Debt Consolidation) as well.
+- Out of the listing category, the listing category = 20 (1 - Wedding Loans) is the category that observes the most loan amount in the range 0-10000.
